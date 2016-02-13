@@ -4,7 +4,7 @@ import javax.servlet.*;
 import javax.servlet.http.*;
 
 // Hello World
-public class HelloWorld extends HttpServlet {
+public class com.jcmeynard.HelloWorld extends HttpServlet {
 
     public void init() throws ServletException
     {
